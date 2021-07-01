@@ -9,4 +9,4 @@
 
 
 # Implementation
-
+Service is implemented as a Flask Web API App
