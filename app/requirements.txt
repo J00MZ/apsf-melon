@@ -1,5 +1,5 @@
 Flask==2.3.2
 Flask-SQLAlchemy==2.5.1
-Flask-Migrate==2.5.3
+Flask-Migrate==2.7.0
 requests==2.25.1
 coloredlogs==15.0.1
